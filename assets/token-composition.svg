@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="192" viewBox="0 0 700 192" role="img" aria-label="Where the input tokens went">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .t  { font-size: 15px; font-weight: 600; fill: #1f2328; }
+    .st { font-size: 11.5px; fill: #656d76; }
+    .lb { font-size: 12px; fill: #1f2328; }
+    .vl { font-size: 12px; font-weight: 600; }
+    .nt { font-size: 11px; fill: #656d76; }
+  </style>
+  <rect x="0.5" y="0.5" width="699" height="191" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="t" x="20" y="28">Where the input tokens went</text>
+  <text class="st" x="20" y="46">Prompt caching across 9 measured agent sessions</text>
+  <text class="lb" x="20" y="76">Cache reads</text>
+  <rect x="220" y="66" width="330" height="14" rx="3" fill="#e6eaef"/>
+  <rect x="220" y="66" width="330" height="14" rx="3" fill="#0969da"/>
+  <text class="vl" x="560" y="78" fill="#0969da">2,256,302,967</text>
+  <text class="lb" x="20" y="106">Cache writes</text>
+  <rect x="220" y="96" width="330" height="14" rx="3" fill="#e6eaef"/>
+  <rect x="220" y="96" width="241" height="14" rx="3" fill="#9a6700"/>
+  <text class="vl" x="560" y="108" fill="#9a6700">43,245,533</text>
+  <text class="lb" x="20" y="136">Fresh input (billed full rate)</text>
+  <rect x="220" y="126" width="330" height="14" rx="3" fill="#e6eaef"/>
+  <rect x="220" y="126" width="99" height="14" rx="3" fill="#1a7f37"/>
+  <text class="vl" x="560" y="138" fill="#1a7f37">82,038</text>
+  <text class="nt" x="20" y="176">Log scale. Fresh input was 0.004% of the input side — 82,038 tokens out of 2.3 billion.</text>
+
+</svg>

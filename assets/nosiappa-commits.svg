@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" height="304" viewBox="0 0 690 304" role="img" aria-label="NoSiappa.pk — 396 commits by type">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .t  { font-size: 15px; font-weight: 600; fill: #1f2328; }
+    .st { font-size: 11.5px; fill: #656d76; }
+    .lb { font-size: 12px; fill: #1f2328; }
+    .vl { font-size: 12px; font-weight: 600; }
+    .nt { font-size: 11px; fill: #656d76; }
+  </style>
+  <rect x="0.5" y="0.5" width="689" height="303" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text class="t" x="20" y="28">NoSiappa.pk — 396 commits by type</text>
+  <text class="st" x="20" y="46">Conventional Commit prefixes, 2026-06-13 to 2026-08-03 (52 days, 42 with commits)</text>
+  <text class="lb" x="20" y="75">feat</text>
+  <rect x="230" y="65" width="330" height="13" rx="3" fill="#e6eaef"/>
+  <rect x="230" y="65" width="330" height="13" rx="3" fill="#0969da"/>
+  <text class="vl" x="570" y="76" fill="#0969da">192</text>
+  <text class="lb" x="20" y="101">fix</text>
+  <rect x="230" y="91" width="330" height="13" rx="3" fill="#e6eaef"/>
+  <rect x="230" y="91" width="139" height="13" rx="3" fill="#9a6700"/>
+  <text class="vl" x="570" y="102" fill="#9a6700">81</text>
+  <text class="lb" x="20" y="127">docs</text>
+  <rect x="230" y="117" width="330" height="13" rx="3" fill="#e6eaef"/>
+  <rect x="230" y="117" width="77" height="13" rx="3" fill="#0969da"/>
+  <text class="vl" x="570" y="128" fill="#0969da">45</text>
+  <text class="lb" x="20" y="153">content</text>
+  <rect x="230" y="143" width="330" height="13" rx="3" fill="#e6eaef"/>
+  <rect x="230" y="143" width="14" height="13" rx="3" fill="#0969da"/>
+  <text class="vl" x="570" y="154" fill="#0969da">8</text>
+  <text class="lb" x="20" y="179">chore</text>
+  <rect x="230" y="169" width="330" height="13" rx="3" fill="#e6eaef"/>
+  <rect x="230" y="169" width="14" height="13" rx="3" fill="#0969da"/>
+  <text class="vl" x="570" y="180" fill="#0969da">8</text>
+  <text class="lb" x="20" y="205">test</text>
+  <rect x="230" y="195" width="330" height="13" rx="3" fill="#e6eaef"/>
+  <rect x="230" y="195" width="7" height="13" rx="3" fill="#0969da"/>
+  <text class="vl" x="570" y="206" fill="#0969da">4</text>
+  <text class="lb" x="20" y="231">refactor</text>
+  <rect x="230" y="221" width="330" height="13" rx="3" fill="#e6eaef"/>
+  <rect x="230" y="221" width="5" height="13" rx="3" fill="#0969da"/>
+  <text class="vl" x="570" y="232" fill="#0969da">3</text>
+  <text class="lb" x="20" y="257">other (seo/perf/ci/hotfix/polish)</text>
+  <rect x="230" y="247" width="330" height="13" rx="3" fill="#e6eaef"/>
+  <rect x="230" y="247" width="14" height="13" rx="3" fill="#8c959f"/>
+  <text class="vl" x="570" y="258" fill="#8c959f">8</text>
+  <text class="nt" x="20" y="292">One fix commit for every 2.4 feature commits. Zero reverts.</text>
+
+</svg>
